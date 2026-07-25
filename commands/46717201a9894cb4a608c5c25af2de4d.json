@@ -1,12 +1,12 @@
 {
   "payload": {
     "format_version": 1,
-    "command_id": "6fca0723402e441e9392705d896a7f76",
+    "command_id": "ee376682e9c645388c82949eeb6eea2a",
     "device_id": "46717201a9894cb4a608c5c25af2de4d",
-    "action": "block",
-    "reason": "ээ",
-    "issued_at": "2026-07-25T16:03:47+00:00",
+    "action": "allow",
+    "reason": "",
+    "issued_at": "2026-07-25T16:05:13+00:00",
     "issued_by": "homeDesktop"
   },
-  "signature": "DqDWAwPmbAA/voPOtzF8Vy/zPRFlcwAJ6iwQQjKo5WHt6zyjXJyNu/Q/468sbTLMb45Gcw0gKw8IyY0rIAYgBA=="
+  "signature": "mD22pAKCyCVnx3iSZaRxHJmI+QxR1NFDc4rlAzxnjjM/znvI2HtbdKelCydEEstBCJ8hY3jdMLKGRkVtYrVxAA=="
 }
