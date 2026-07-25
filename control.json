@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "format_version": 1,
+    "root_public_key": "/8GI2z5f8E0nXu9qakthlc3hPFYoekvUj1Ur6x63898=",
+    "updated_at": "2026-07-25T14:49:30+00:00",
+    "devices": [
+      {
+        "device_id": "76eb2363844c492882ead82c4e8744ce",
+        "name": "DESKTOP-FLPJQMO",
+        "added_at": "2026-07-25T14:49:30+00:00"
+      }
+    ]
+  },
+  "signature": "+uwQIIbzCY0/btsn625StFJrf3wz4UeaNXohUyzIQE47i+FYd8VJdFDfOylgt0c7JYGp0B3n+wlp0Psu2LFhDA=="
+}
