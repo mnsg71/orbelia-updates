@@ -1,12 +1,12 @@
 {
   "payload": {
     "format_version": 1,
-    "command_id": "c9cef04d855b4ef58b98a12469aad1e1",
+    "command_id": "6f0f7c4c73844d66988adf0872b4cb1e",
     "device_id": "46717201a9894cb4a608c5c25af2de4d",
-    "action": "block",
-    "reason": "бан",
-    "issued_at": "2026-07-25T16:01:07+00:00",
+    "action": "allow",
+    "reason": "разбан",
+    "issued_at": "2026-07-25T16:02:08+00:00",
     "issued_by": "homeDesktop"
   },
-  "signature": "2oUjC4sMMR03ctmX3+qmyy8LYfPiCPnxote5aEdx/MrIFuI+3R+BMpUC0Zj7tb7qok7KHxM/y4ewiod+lXO5CA=="
+  "signature": "XFJOAFpqM4iJjlmTMM0Ab3VDncDYg2qIrHQTK51ePm/0of0T9J8HiefvM7EiwecUcYZ1CFrsvbEwGW0TSuHwDw=="
 }
