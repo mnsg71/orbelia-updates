@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "revision": 2,
-  "updated_at": "2026-07-25T16:03:18+00:00",
+  "revision": 3,
+  "updated_at": "2026-07-26T12:19:37+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -21,7 +21,7 @@
         "package_weight_kg": 0.05,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
-        "overlay_allowed": false
+        "overlay_allowed": true
       },
       {
         "key": "бад ревит 0,5гр/1драже␟шт␟␟",
@@ -36,7 +36,7 @@
         "package_weight_kg": 0.005,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
-        "overlay_allowed": false
+        "overlay_allowed": true
       },
       {
         "key": "вареники с картофелем и луком с/м␟кг␟␟",
@@ -846,7 +846,7 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
-        "overlay_allowed": false
+        "overlay_allowed": true
       },
       {
         "key": "молоко 3,2% /филвоенторг/ 0,200л␟л␟␟",
@@ -1431,7 +1431,7 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
-        "overlay_allowed": false
+        "overlay_allowed": true
       },
       {
         "key": "томаты маринованные консервы␟кг␟␟",
@@ -1446,7 +1446,7 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
-        "overlay_allowed": false
+        "overlay_allowed": true
       },
       {
         "key": "треска тушка б/г с/м␟кг␟␟",
@@ -1506,7 +1506,7 @@
         "package_weight_kg": 16.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
-        "overlay_allowed": false
+        "overlay_allowed": true
       },
       {
         "key": "хлопья овсяные␟кг␟␟",
@@ -1566,7 +1566,7 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 30,
-        "overlay_allowed": false
+        "overlay_allowed": true
       },
       {
         "key": "чернослив б/к␟кг␟␟",
@@ -1626,7 +1626,7 @@
         "package_weight_kg": 14.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 84,
-        "overlay_allowed": false
+        "overlay_allowed": true
       },
       {
         "key": "яйцо куриное с1␟шт (яйцо)␟␟",
