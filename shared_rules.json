@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "revision": 4,
-  "updated_at": "2026-07-29T11:16:04+00:00",
+  "revision": 5,
+  "updated_at": "2026-07-29T15:04:43+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -1633,10 +1633,6 @@
       [
         "Банки",
         "Мешки"
-      ],
-      [
-        "Банки",
-        "Молоко и соки"
       ],
       [
         "Бобы",
