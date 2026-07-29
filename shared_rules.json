@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "revision": 3,
-  "updated_at": "2026-07-26T12:19:37+00:00",
+  "revision": 4,
+  "updated_at": "2026-07-29T11:16:04+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -17,7 +17,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Маленькие товары",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 0.001,
         "package_weight_kg": 0.05,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
@@ -32,7 +32,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Маленькие товары",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 0.0005,
         "package_weight_kg": 0.005,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
@@ -63,9 +63,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 4.0,
         "volume_factor": 0.5,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 80,
         "overlay_allowed": false
       },
       {
@@ -81,21 +81,6 @@
         "package_weight_kg": 4.0,
         "volume_factor": 0.5,
         "full_pallet_packages": 80,
-        "overlay_allowed": false
-      },
-      {
-        "key": "вода б/г /филвоенторг/ 1,500л␟л␟␟",
-        "base_key": "вода б/г /филвоенторг/ 1,500л␟л",
-        "name": "Вода б/г /ВП/ 1,500л",
-        "unit": "л",
-        "template_name": "Вода б/г /ФилВоенторг/ 1,500л",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
-        "volume_factor": 1.0,
-        "full_pallet_packages": null,
         "overlay_allowed": false
       },
       {
@@ -123,9 +108,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 8.0,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 50,
         "overlay_allowed": false
       },
       {
@@ -408,9 +393,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 6.0,
         "volume_factor": 0.5,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 96,
         "overlay_allowed": false
       },
       {
@@ -453,9 +438,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 1.0,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 30,
         "overlay_allowed": false
       },
       {
@@ -663,9 +648,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 50.0,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 20,
         "overlay_allowed": false
       },
       {
@@ -798,9 +783,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 13.8,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 56,
         "overlay_allowed": false
       },
       {
@@ -842,7 +827,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Молоко и соки",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 1.03,
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
@@ -857,10 +842,10 @@
         "manufacturer": "",
         "package": "",
         "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "weight_per_unit_kg": 1.03,
+        "package_weight_kg": 5.4,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 185,
         "overlay_allowed": false
       },
       {
@@ -872,7 +857,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Молоко и соки",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 1.03,
         "package_weight_kg": 5.4,
         "volume_factor": 1.0,
         "full_pallet_packages": 185,
@@ -1053,9 +1038,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 8.0,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 72,
         "overlay_allowed": false
       },
       {
@@ -1098,9 +1083,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 6.0,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 128,
         "overlay_allowed": false
       },
       {
@@ -1143,9 +1128,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 7.0,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 72,
         "overlay_allowed": false
       },
       {
@@ -1307,10 +1292,10 @@
         "manufacturer": "",
         "package": "",
         "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "weight_per_unit_kg": 1.05,
+        "package_weight_kg": 5.4,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 185,
         "overlay_allowed": false
       },
       {
@@ -1322,10 +1307,10 @@
         "manufacturer": "",
         "package": "",
         "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "weight_per_unit_kg": 1.05,
+        "package_weight_kg": 12.0,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 60,
         "overlay_allowed": false
       },
       {
@@ -1337,7 +1322,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Молоко и соки",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 1.05,
         "package_weight_kg": 5.4,
         "volume_factor": 1.0,
         "full_pallet_packages": 185,
@@ -1352,7 +1337,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Молоко и соки",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 1.05,
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
@@ -1472,7 +1457,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Обычные товары",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 1.01,
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 70,
@@ -1488,9 +1473,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 16.0,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 60,
         "overlay_allowed": false
       },
       {
@@ -1593,9 +1578,9 @@
         "package": "",
         "category": "",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 7.2,
         "volume_factor": 1.0,
-        "full_pallet_packages": null,
+        "full_pallet_packages": 96,
         "overlay_allowed": false
       },
       {
@@ -1637,7 +1622,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Заморозка и охлаждение",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 0.06,
         "package_weight_kg": 360.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
