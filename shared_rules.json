@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "revision": 6,
-  "updated_at": "2026-08-10T13:00:18+00:00",
+  "revision": 7,
+  "updated_at": "2026-08-10T13:39:15+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -1239,6 +1239,21 @@
         "overlay_allowed": false
       },
       {
+        "key": "свинина на кости с/м␟кг␟␟",
+        "base_key": "свинина на кости с/м␟кг",
+        "name": "Свинина на кости с/м",
+        "unit": "кг",
+        "template_name": "Свинина на кости с/м",
+        "manufacturer": "",
+        "package": "",
+        "category": "",
+        "weight_per_unit_kg": 1.0,
+        "package_weight_kg": null,
+        "volume_factor": 1.0,
+        "full_pallet_packages": null,
+        "overlay_allowed": false
+      },
+      {
         "key": "свинина тушеная 1сорт консервы␟кг␟␟",
         "base_key": "свинина тушеная 1сорт консервы␟кг",
         "name": "Свинина тушеная 1сорт консервы",
@@ -1665,42 +1680,49 @@
       {
         "name": "Банки",
         "max_net_weight_kg": 1001.0,
+        "max_packages_per_pallet": null,
         "profile": "bank",
         "weight_exception_product_keys": []
       },
       {
         "name": "Бобы",
         "max_net_weight_kg": 1001.0,
+        "max_packages_per_pallet": null,
         "profile": "bean",
         "weight_exception_product_keys": []
       },
       {
         "name": "Большие коробки",
         "max_net_weight_kg": 1001.0,
+        "max_packages_per_pallet": null,
         "profile": "big_box",
         "weight_exception_product_keys": []
       },
       {
         "name": "Заморозка и охлаждение",
         "max_net_weight_kg": 1001.0,
+        "max_packages_per_pallet": null,
         "profile": "frozen_chilled",
         "weight_exception_product_keys": []
       },
       {
         "name": "Карамель",
         "max_net_weight_kg": 1001.0,
+        "max_packages_per_pallet": null,
         "profile": "caramel",
         "weight_exception_product_keys": []
       },
       {
         "name": "Маленькие товары",
         "max_net_weight_kg": 1001.0,
+        "max_packages_per_pallet": null,
         "profile": "small",
         "weight_exception_product_keys": []
       },
       {
         "name": "Мешки",
         "max_net_weight_kg": 1001.0,
+        "max_packages_per_pallet": null,
         "profile": "bag",
         "weight_exception_product_keys": [
           "макароны␟кг␟␟",
@@ -1710,18 +1732,21 @@
       {
         "name": "Молоко и соки",
         "max_net_weight_kg": 1001.0,
+        "max_packages_per_pallet": null,
         "profile": "non_bag",
         "weight_exception_product_keys": []
       },
       {
         "name": "Обычные товары",
         "max_net_weight_kg": 1001.0,
+        "max_packages_per_pallet": null,
         "profile": "normal",
         "weight_exception_product_keys": []
       },
       {
         "name": "Растительное масло",
         "max_net_weight_kg": 1001.0,
+        "max_packages_per_pallet": null,
         "profile": "non_bag",
         "weight_exception_product_keys": []
       }
