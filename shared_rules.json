@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "revision": 5,
-  "updated_at": "2026-07-29T15:04:43+00:00",
+  "revision": 6,
+  "updated_at": "2026-08-10T13:00:18+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -466,7 +466,7 @@
         "template_name": "Корм д/Собак взрослых средних и крупных пород сухой",
         "manufacturer": "",
         "package": "",
-        "category": "Мешки",
+        "category": "",
         "weight_per_unit_kg": 1.0,
         "package_weight_kg": 14.0,
         "volume_factor": 1.0,
@@ -1650,6 +1650,81 @@
         "Мешки",
         "Растительное масло"
       ]
+    ],
+    "limits": {
+      "max_net_weight_kg": 1001.0,
+      "bag_light_packages": 27,
+      "bag_heavy_packages": 24,
+      "bag_heavy_from_gross_kg": 1100.0,
+      "big_box_capacity_units": 72.0,
+      "beans_on_bag_pallet": 10,
+      "caramel_on_bag_pallet": 10,
+      "include_frozen_chilled": 0
+    },
+    "categories": [
+      {
+        "name": "Банки",
+        "max_net_weight_kg": 1001.0,
+        "profile": "bank",
+        "weight_exception_product_keys": []
+      },
+      {
+        "name": "Бобы",
+        "max_net_weight_kg": 1001.0,
+        "profile": "bean",
+        "weight_exception_product_keys": []
+      },
+      {
+        "name": "Большие коробки",
+        "max_net_weight_kg": 1001.0,
+        "profile": "big_box",
+        "weight_exception_product_keys": []
+      },
+      {
+        "name": "Заморозка и охлаждение",
+        "max_net_weight_kg": 1001.0,
+        "profile": "frozen_chilled",
+        "weight_exception_product_keys": []
+      },
+      {
+        "name": "Карамель",
+        "max_net_weight_kg": 1001.0,
+        "profile": "caramel",
+        "weight_exception_product_keys": []
+      },
+      {
+        "name": "Маленькие товары",
+        "max_net_weight_kg": 1001.0,
+        "profile": "small",
+        "weight_exception_product_keys": []
+      },
+      {
+        "name": "Мешки",
+        "max_net_weight_kg": 1001.0,
+        "profile": "bag",
+        "weight_exception_product_keys": [
+          "макароны␟кг␟␟",
+          "макароны вермишель␟кг␟␟"
+        ]
+      },
+      {
+        "name": "Молоко и соки",
+        "max_net_weight_kg": 1001.0,
+        "profile": "non_bag",
+        "weight_exception_product_keys": []
+      },
+      {
+        "name": "Обычные товары",
+        "max_net_weight_kg": 1001.0,
+        "profile": "normal",
+        "weight_exception_product_keys": []
+      },
+      {
+        "name": "Растительное масло",
+        "max_net_weight_kg": 1001.0,
+        "profile": "non_bag",
+        "weight_exception_product_keys": []
+      }
     ]
   }
 }
