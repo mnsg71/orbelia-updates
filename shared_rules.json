@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "revision": 9,
-  "updated_at": "2026-08-12T14:05:53+00:00",
+  "revision": 10,
+  "updated_at": "2026-08-12T14:07:56+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -1457,7 +1457,7 @@
       ]
     ],
     "limits": {
-      "max_net_weight_kg": 1051.0,
+      "max_net_weight_kg": 1201.0,
       "bag_light_packages": 27.0,
       "bag_heavy_packages": 24.0,
       "bag_heavy_from_gross_kg": 1100.0,
