@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "revision": 8,
-  "updated_at": "2026-08-10T14:27:10+00:00",
+  "revision": 9,
+  "updated_at": "2026-08-12T14:05:53+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -56,21 +56,6 @@
       {
         "key": "вафли /филвоенторг/ весовые␟кг␟␟",
         "base_key": "вафли /филвоенторг/ весовые␟кг",
-        "name": "Вафли /ВП/ весовые",
-        "unit": "кг",
-        "template_name": "Вафли /ФилВоенторг/ весовые",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 4.0,
-        "volume_factor": 0.5,
-        "full_pallet_packages": 80,
-        "overlay_allowed": false
-      },
-      {
-        "key": "вафли /филвоенторг/ весовые␟кг␟␟",
-        "base_key": "вафли /филвоенторг/ весовые␟кг",
         "name": "Вафли /ФилВоенторг/ весовые",
         "unit": "кг",
         "template_name": "Вафли /ФилВоенторг/ весовые",
@@ -96,21 +81,6 @@
         "package_weight_kg": 9.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 72,
-        "overlay_allowed": false
-      },
-      {
-        "key": "галеты /печенье затяжное /филвоенторг/ /весовое␟кг␟␟",
-        "base_key": "галеты /печенье затяжное /филвоенторг/ /весовое␟кг",
-        "name": "Галеты /Печенье затяжное /ВП/ весовое",
-        "unit": "кг",
-        "template_name": "Галеты /Печенье затяжное /ФилВоенторг/ /весовое",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 8.0,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 50,
         "overlay_allowed": false
       },
       {
@@ -386,21 +356,6 @@
       {
         "key": "карамель /филвоенторг /весовой␟кг␟␟",
         "base_key": "карамель /филвоенторг /весовой␟кг",
-        "name": "Карамель /ВП/ весовая",
-        "unit": "кг",
-        "template_name": "Карамель /ФилВоенторг /весовой",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 6.0,
-        "volume_factor": 0.5,
-        "full_pallet_packages": 96,
-        "overlay_allowed": false
-      },
-      {
-        "key": "карамель /филвоенторг /весовой␟кг␟␟",
-        "base_key": "карамель /филвоенторг /весовой␟кг",
         "name": "Карамель /ФилВоенторг /весовой",
         "unit": "кг",
         "template_name": "Карамель /ФилВоенторг /весовой",
@@ -426,21 +381,6 @@
         "package_weight_kg": 1.4,
         "volume_factor": 1.0,
         "full_pallet_packages": 108,
-        "overlay_allowed": false
-      },
-      {
-        "key": "конфета шоколадная /филвоенторг/ /весовые␟кг␟␟",
-        "base_key": "конфета шоколадная /филвоенторг/ /весовые␟кг",
-        "name": "Конфета Шоколадная /ВП/ /весовые",
-        "unit": "кг",
-        "template_name": "Конфета Шоколадная /ФилВоенторг/ /весовые",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 1.0,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 30,
         "overlay_allowed": false
       },
       {
@@ -641,21 +581,6 @@
       {
         "key": "крупа фасоль /филвоенторг/␟кг␟␟",
         "base_key": "крупа фасоль /филвоенторг/␟кг",
-        "name": "Крупа фасоль /ВП/",
-        "unit": "кг",
-        "template_name": "Крупа фасоль /ФилВоенторг/",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 50.0,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 20,
-        "overlay_allowed": false
-      },
-      {
-        "key": "крупа фасоль /филвоенторг/␟кг␟␟",
-        "base_key": "крупа фасоль /филвоенторг/␟кг",
         "name": "Крупа фасоль /ФилВоенторг/",
         "unit": "кг",
         "template_name": "Крупа фасоль /ФилВоенторг/",
@@ -776,21 +701,6 @@
       {
         "key": "масло подсолнечное рафинированное /филвоенторг/␟кг␟␟",
         "base_key": "масло подсолнечное рафинированное /филвоенторг/␟кг",
-        "name": "Масло подсолнечное рафинированное /ВП/",
-        "unit": "кг",
-        "template_name": "Масло подсолнечное рафинированное /ФилВоенторг/",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 13.8,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 56,
-        "overlay_allowed": false
-      },
-      {
-        "key": "масло подсолнечное рафинированное /филвоенторг/␟кг␟␟",
-        "base_key": "масло подсолнечное рафинированное /филвоенторг/␟кг",
         "name": "Масло подсолнечное рафинированное /ФилВоенторг/",
         "unit": "кг",
         "template_name": "Масло подсолнечное рафинированное /ФилВоенторг/",
@@ -832,21 +742,6 @@
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
         "overlay_allowed": true
-      },
-      {
-        "key": "молоко 3,2% /филвоенторг/ 0,200л␟л␟␟",
-        "base_key": "молоко 3,2% /филвоенторг/ 0,200л␟л",
-        "name": "Молоко 3,2% /ВП/ 0,200л",
-        "unit": "л",
-        "template_name": "Молоко 3,2% /ФилВоенторг/ 0,200л",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.03,
-        "package_weight_kg": 5.4,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 185,
-        "overlay_allowed": false
       },
       {
         "key": "молоко 3,2% /филвоенторг/ 0,200л␟л␟␟",
@@ -1031,21 +926,6 @@
       {
         "key": "печенье /филвоенторг/ весовое␟кг␟␟",
         "base_key": "печенье /филвоенторг/ весовое␟кг",
-        "name": "Печенье /ВП/ весовое",
-        "unit": "кг",
-        "template_name": "Печенье /ФилВоенторг/ весовое",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 8.0,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 72,
-        "overlay_allowed": false
-      },
-      {
-        "key": "печенье /филвоенторг/ весовое␟кг␟␟",
-        "base_key": "печенье /филвоенторг/ весовое␟кг",
         "name": "Печенье /ФилВоенторг/ весовое",
         "unit": "кг",
         "template_name": "Печенье /ФилВоенторг/ весовое",
@@ -1076,21 +956,6 @@
       {
         "key": "повидло фруктово-ягодное /филвоенторг/␟кг␟␟",
         "base_key": "повидло фруктово-ягодное /филвоенторг/␟кг",
-        "name": "Повидло фруктово-ягодное /ВП/",
-        "unit": "кг",
-        "template_name": "Повидло фруктово-ягодное /ФилВоенторг/",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 6.0,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 128,
-        "overlay_allowed": false
-      },
-      {
-        "key": "повидло фруктово-ягодное /филвоенторг/␟кг␟␟",
-        "base_key": "повидло фруктово-ягодное /филвоенторг/␟кг",
         "name": "Повидло фруктово-ягодное /ФилВоенторг/",
         "unit": "кг",
         "template_name": "Повидло фруктово-ягодное /ФилВоенторг/",
@@ -1116,21 +981,6 @@
         "package_weight_kg": 20.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
-        "overlay_allowed": false
-      },
-      {
-        "key": "пряник /филвоенторг/ /весовой␟кг␟␟",
-        "base_key": "пряник /филвоенторг/ /весовой␟кг",
-        "name": "Пряник /ВП/ /весовой",
-        "unit": "кг",
-        "template_name": "Пряник /ФилВоенторг/ /весовой",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 7.0,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 72,
         "overlay_allowed": false
       },
       {
@@ -1301,36 +1151,6 @@
       {
         "key": "сок фруктово-ягодный /филвоенторг/ 0,200л␟л␟␟",
         "base_key": "сок фруктово-ягодный /филвоенторг/ 0,200л␟л",
-        "name": "Сок фруктово-ягодный /ВП/ 0,200л",
-        "unit": "л",
-        "template_name": "Сок фруктово-ягодный /ФилВоенторг/ 0,200л",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.05,
-        "package_weight_kg": 5.4,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 185,
-        "overlay_allowed": false
-      },
-      {
-        "key": "сок фруктово-ягодный /филвоенторг/ 1,000л␟л␟␟",
-        "base_key": "сок фруктово-ягодный /филвоенторг/ 1,000л␟л",
-        "name": "Сок фруктово-ягодный /ВП/ 1,000л",
-        "unit": "л",
-        "template_name": "Сок фруктово-ягодный /ФилВоенторг/ 1,000л",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.05,
-        "package_weight_kg": 12.0,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 60,
-        "overlay_allowed": false
-      },
-      {
-        "key": "сок фруктово-ягодный /филвоенторг/ 0,200л␟л␟␟",
-        "base_key": "сок фруктово-ягодный /филвоенторг/ 0,200л␟л",
         "name": "Сок фруктово-ягодный /ФилВоенторг/ 0,200л",
         "unit": "л",
         "template_name": "Сок фруктово-ягодный /ФилВоенторг/ 0,200л",
@@ -1481,21 +1301,6 @@
       {
         "key": "фасоль /филвоенторг/ консервы␟кг␟␟",
         "base_key": "фасоль /филвоенторг/ консервы␟кг",
-        "name": "Фасоль /ВП/ консервы",
-        "unit": "кг",
-        "template_name": "Фасоль /ФилВоенторг/ консервы",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 16.0,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 60,
-        "overlay_allowed": false
-      },
-      {
-        "key": "фасоль /филвоенторг/ консервы␟кг␟␟",
-        "base_key": "фасоль /филвоенторг/ консервы␟кг",
         "name": "Фасоль /ФилВоенторг/ консервы",
         "unit": "кг",
         "template_name": "Фасоль /ФилВоенторг/ консервы",
@@ -1586,21 +1391,6 @@
       {
         "key": "шоколад горький 56% /филвоенторг/ /весовой␟кг␟␟",
         "base_key": "шоколад горький 56% /филвоенторг/ /весовой␟кг",
-        "name": "Шоколад горький 56% /ВП/ /весовой",
-        "unit": "кг",
-        "template_name": "Шоколад горький 56% /ФилВоенторг/ /весовой",
-        "manufacturer": "",
-        "package": "",
-        "category": "",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 7.2,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 96,
-        "overlay_allowed": false
-      },
-      {
-        "key": "шоколад горький 56% /филвоенторг/ /весовой␟кг␟␟",
-        "base_key": "шоколад горький 56% /филвоенторг/ /весовой␟кг",
         "name": "Шоколад горький 56% /ФилВоенторг/ /весовой",
         "unit": "кг",
         "template_name": "Шоколад горький 56% /ФилВоенторг/ /весовой",
@@ -1667,13 +1457,13 @@
       ]
     ],
     "limits": {
-      "max_net_weight_kg": 1001.0,
-      "bag_light_packages": 27,
-      "bag_heavy_packages": 24,
+      "max_net_weight_kg": 1051.0,
+      "bag_light_packages": 27.0,
+      "bag_heavy_packages": 24.0,
       "bag_heavy_from_gross_kg": 1100.0,
       "big_box_capacity_units": 72.0,
-      "beans_on_bag_pallet": 10,
-      "caramel_on_bag_pallet": 10,
+      "beans_on_bag_pallet": 10.0,
+      "caramel_on_bag_pallet": 10.0,
       "include_frozen_chilled": 0
     },
     "categories": [
