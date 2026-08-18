@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 21,
-  "updated_at": "2026-08-18T15:28:06+00:00",
+  "revision": 22,
+  "updated_at": "2026-08-18T15:29:24+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -275,7 +275,7 @@
         "category": "Бобы",
         "weight_per_unit_kg": 1.0,
         "package_weight_kg": 16.0,
-        "volume_factor": 0.2,
+        "volume_factor": 1.5,
         "full_pallet_packages": 64,
         "active": true,
         "review_required": false,
