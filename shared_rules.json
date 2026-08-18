@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 17,
-  "updated_at": "2026-08-18T15:17:07+00:00",
+  "revision": 18,
+  "updated_at": "2026-08-18T15:17:25+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -317,7 +317,7 @@
         "category": "Маленькие товары",
         "weight_per_unit_kg": 1.0,
         "package_weight_kg": 0.5,
-        "volume_factor": 1.0,
+        "volume_factor": 0.0001,
         "full_pallet_packages": 78,
         "active": true,
         "review_required": false,
