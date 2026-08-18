@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 23,
-  "updated_at": "2026-08-18T15:31:30+00:00",
+  "revision": 24,
+  "updated_at": "2026-08-18T15:31:59+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -1627,7 +1627,7 @@
         "category": "Молоко и соки",
         "weight_per_unit_kg": 1.05,
         "package_weight_kg": 5.4,
-        "volume_factor": 1.0,
+        "volume_factor": 0.5,
         "full_pallet_packages": 185,
         "active": true,
         "review_required": false,
