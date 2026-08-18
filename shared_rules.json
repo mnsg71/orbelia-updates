@@ -1,14 +1,15 @@
 {
-  "format_version": 1,
-  "revision": 13,
-  "updated_at": "2026-08-17T15:33:58+00:00",
+  "format_version": 3,
+  "revision": 14,
+  "updated_at": "2026-08-18T15:09:00+00:00",
   "updated_by": {
-    "device_id": "46717201a9894cb4a608c5c25af2de4d",
-    "name": "mongaal2"
+    "device_id": "76eb2363844c492882ead82c4e8744ce",
+    "name": "DESKTOP-FLPJQMO"
   },
   "rules": {
     "products": [
       {
+        "shared_id": "058fc95d-151f-574b-a58a-6294a3177c85",
         "key": "бад гексавит 1гр/1драже␟шт␟␟",
         "base_key": "бад гексавит 1гр/1драже␟шт",
         "name": "БАД Гексавит 1гр/1драже",
@@ -21,9 +22,15 @@
         "package_weight_kg": 0.05,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "БАД Гексавит 1гр/1драже"
+        ],
         "overlay_allowed": true
       },
       {
+        "shared_id": "eb47f4b9-919b-5b3f-9ed9-7546d3712d9b",
         "key": "бад ревит 0,5гр/1драже␟шт␟␟",
         "base_key": "бад ревит 0,5гр/1драже␟шт",
         "name": "БАД Ревит 0,5гр/1драже",
@@ -36,9 +43,15 @@
         "package_weight_kg": 0.005,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "БАД Ревит 0,5гр/1драже"
+        ],
         "overlay_allowed": true
       },
       {
+        "shared_id": "d42ccbc0-90b4-53df-9a4d-85860bc71985",
         "key": "вареники с картофелем и луком с/м␟кг␟␟",
         "base_key": "вареники с картофелем и луком с/м␟кг",
         "name": "Вареники с картофелем и луком с/м",
@@ -51,9 +64,15 @@
         "package_weight_kg": 8.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 80,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Вареники с картофелем и луком с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "6b39d604-2158-5bc4-9439-963bceb0d27a",
         "key": "вафли /филвоенторг/ весовые␟кг␟␟",
         "base_key": "вафли /филвоенторг/ весовые␟кг",
         "name": "Вафли /ФилВоенторг/ весовые",
@@ -66,9 +85,16 @@
         "package_weight_kg": 4.0,
         "volume_factor": 0.5,
         "full_pallet_packages": 80,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Вафли /ВП/ весовые",
+          "Вафли /ФилВоенторг/ весовые"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "9c466464-bd34-5a28-aea7-9b6932bb9e83",
         "key": "вода б/г /филвоенторг/ 1,500л␟л␟␟",
         "base_key": "вода б/г /филвоенторг/ 1,500л␟л",
         "name": "Вода б/г /ФилВоенторг/ 1,500л",
@@ -81,9 +107,16 @@
         "package_weight_kg": 9.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 72,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Вода б/г /ВП/ 1,500л",
+          "Вода б/г /ФилВоенторг/ 1,500л"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "444a8e3f-e8f5-5a1f-8154-37d31faf49c0",
         "key": "галеты /печенье затяжное /филвоенторг/ /весовое␟кг␟␟",
         "base_key": "галеты /печенье затяжное /филвоенторг/ /весовое␟кг",
         "name": "Галеты /Печенье затяжное /ФилВоенторг/ /весовое",
@@ -96,9 +129,16 @@
         "package_weight_kg": 8.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Галеты /Печенье затяжное /ВП/ весовое",
+          "Галеты /Печенье затяжное /ФилВоенторг/ /весовое"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "d8aa3b1f-0f6b-5ffc-aa1f-0b28560339c3",
         "key": "говядина блочная б/к с/м␟кг␟␟",
         "base_key": "говядина блочная б/к с/м␟кг",
         "name": "Говядина блочная б/к с/м",
@@ -111,9 +151,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Говядина блочная б/к с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "febb540c-c493-5f6d-b81d-64e3b8459055",
         "key": "говядина отруб н/к с/м␟кг␟␟",
         "base_key": "говядина отруб н/к с/м␟кг",
         "name": "Говядина отруб н/к с/м",
@@ -126,9 +172,15 @@
         "package_weight_kg": 20.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Говядина отруб н/к с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "868b503d-908f-577f-adb5-fdfc94759e3c",
         "key": "говядина печень с/м␟кг␟␟",
         "base_key": "говядина печень с/м␟кг",
         "name": "Говядина печень с/м",
@@ -141,9 +193,15 @@
         "package_weight_kg": 20.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Говядина печень с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "ee4f9480-be50-5e1b-86ed-653bc70f6313",
         "key": "говядина сердце с/м␟кг␟␟",
         "base_key": "говядина сердце с/м␟кг",
         "name": "Говядина сердце с/м",
@@ -156,9 +214,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Говядина сердце с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "2b2b67de-f83d-5562-8807-2f02b3dc4408",
         "key": "говядина тушеная консервы гост␟кг␟␟",
         "base_key": "говядина тушеная консервы гост␟кг",
         "name": "Говядина тушеная консервы ГОСТ",
@@ -171,9 +235,15 @@
         "package_weight_kg": 12.6,
         "volume_factor": 1.0,
         "full_pallet_packages": 64,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Говядина тушеная консервы ГОСТ"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "1d6d06ee-d736-5c24-9ad1-42ca4eadcfc0",
         "key": "горбуша тушка б/г с/м␟кг␟␟",
         "base_key": "горбуша тушка б/г с/м␟кг",
         "name": "Горбуша тушка б/г с/м",
@@ -186,9 +256,15 @@
         "package_weight_kg": 28.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 64,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Горбуша тушка б/г с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "fee73d52-1432-540b-a626-db083295740c",
         "key": "горошек зеленый консервы␟кг␟␟",
         "base_key": "горошек зеленый консервы␟кг",
         "name": "Горошек зеленый консервы",
@@ -201,9 +277,15 @@
         "package_weight_kg": 16.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 64,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Горошек зеленый консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "fdff22fb-2bcf-59f0-acd3-a4fe8c48a7e0",
         "key": "горчица порошок␟кг␟␟",
         "base_key": "горчица порошок␟кг",
         "name": "Горчица порошок",
@@ -216,9 +298,15 @@
         "package_weight_kg": 1.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Горчица порошок"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "ac0974fa-57d4-58e5-86bb-37b1d7cf9931",
         "key": "дрожжи сушеные␟кг␟␟",
         "base_key": "дрожжи сушеные␟кг",
         "name": "Дрожжи сушеные",
@@ -231,9 +319,15 @@
         "package_weight_kg": 0.5,
         "volume_factor": 1.0,
         "full_pallet_packages": 78,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Дрожжи сушеные"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "1a8dd304-6066-54ed-b4a3-36db8008ce88",
         "key": "желатин гранулированный␟кг␟␟",
         "base_key": "желатин гранулированный␟кг",
         "name": "Желатин гранулированный",
@@ -246,9 +340,15 @@
         "package_weight_kg": 1.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Желатин гранулированный"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "cad3eb0e-619d-5be9-ade3-abaccd4cfe33",
         "key": "закуска воронежская (капуста белокочанная, томаты, морковь, лук репчатый) консервы␟кг␟␟",
         "base_key": "закуска воронежская (капуста белокочанная, томаты, морковь, лук репчатый) консервы␟кг",
         "name": "Закуска Воронежская (капуста белокочанная, томаты, морковь, лук репчатый) консервы",
@@ -261,9 +361,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 96,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Закуска Воронежская (капуста белокочанная, томаты, морковь, лук репчатый) консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "65100d79-c0e7-5f9d-a77b-a544059c03cd",
         "key": "изюм светлый␟кг␟␟",
         "base_key": "изюм светлый␟кг",
         "name": "Изюм светлый",
@@ -276,9 +382,15 @@
         "package_weight_kg": 10.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Изюм светлый"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "8a0e5643-850f-53a8-97b6-88e689f58161",
         "key": "изюм темный␟кг␟␟",
         "base_key": "изюм темный␟кг",
         "name": "Изюм темный",
@@ -291,9 +403,15 @@
         "package_weight_kg": 10.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Изюм темный"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "e3e193f3-68a9-5995-aa30-d74eb16a496e",
         "key": "икра кабачковая консервы␟кг␟␟",
         "base_key": "икра кабачковая консервы␟кг",
         "name": "Икра кабачковая консервы",
@@ -306,9 +424,15 @@
         "package_weight_kg": 5.7,
         "volume_factor": 1.0,
         "full_pallet_packages": 128,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Икра кабачковая консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "2c5948e8-e51d-5e8b-be4d-409139d19f75",
         "key": "какао порошок␟кг␟␟",
         "base_key": "какао порошок␟кг",
         "name": "Какао порошок",
@@ -321,9 +445,15 @@
         "package_weight_kg": 3.6,
         "volume_factor": 1.0,
         "full_pallet_packages": 120,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Какао порошок"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "71884ed2-7cd2-55c2-aa39-3eaf0b6c831d",
         "key": "камбала тушка потрошеная б/г с/м␟кг␟␟",
         "base_key": "камбала тушка потрошеная б/г с/м␟кг",
         "name": "Камбала тушка потрошеная б/г с/м",
@@ -336,9 +466,15 @@
         "package_weight_kg": 22.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Камбала тушка потрошеная б/г с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "6968777f-b6cf-5a61-82b3-a8572ed50d2f",
         "key": "капуста белокочанная маринованная␟кг␟␟",
         "base_key": "капуста белокочанная маринованная␟кг",
         "name": "Капуста белокочанная маринованная",
@@ -351,9 +487,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 120,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Капуста белокочанная маринованная"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "052c5884-3f1e-5695-bc12-ef7d98ee8735",
         "key": "карамель /филвоенторг /весовой␟кг␟␟",
         "base_key": "карамель /филвоенторг /весовой␟кг",
         "name": "Карамель /ФилВоенторг /весовой",
@@ -366,9 +508,16 @@
         "package_weight_kg": 6.0,
         "volume_factor": 0.5,
         "full_pallet_packages": 96,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Карамель /ВП/ весовая",
+          "Карамель /ФилВоенторг /весовой"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "c42e0003-5246-534f-b33c-19f62fd94afc",
         "key": "колбаса п/к␟кг␟␟",
         "base_key": "колбаса п/к␟кг",
         "name": "Колбаса п/к",
@@ -381,9 +530,15 @@
         "package_weight_kg": 1.4,
         "volume_factor": 1.0,
         "full_pallet_packages": 108,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Колбаса п/к"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "0cfcd5e0-6b6f-529f-a1ee-a342160eee74",
         "key": "конфета шоколадная /филвоенторг/ /весовые␟кг␟␟",
         "base_key": "конфета шоколадная /филвоенторг/ /весовые␟кг",
         "name": "Конфета Шоколадная /ФилВоенторг/ /весовые",
@@ -396,9 +551,16 @@
         "package_weight_kg": 1.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 30,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Конфета Шоколадная /ВП/ /весовые",
+          "Конфета Шоколадная /ФилВоенторг/ /весовые"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "24791fed-2a5a-55db-b36f-201e02220e67",
         "key": "корм д/собак взрослых средних и крупных пород сухой␟кг␟␟",
         "base_key": "корм д/собак взрослых средних и крупных пород сухой␟кг",
         "name": "Корм д/Собак взрослых средних и крупных пород сухой",
@@ -411,9 +573,15 @@
         "package_weight_kg": 14.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Корм д/Собак взрослых средних и крупных пород сухой"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "e225c51d-0e3a-5a3c-bc19-ad36eda5ea11",
         "key": "котлета мясная из свинины формованная с/м весовой␟кг␟␟",
         "base_key": "котлета мясная из свинины формованная с/м весовой␟кг",
         "name": "Котлета мясная из свинины формованная с/м весовой",
@@ -426,9 +594,15 @@
         "package_weight_kg": 6.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Котлета мясная из свинины формованная с/м весовой"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "6b2fdf9e-0b91-5825-9c6a-bbadb6059e3f",
         "key": "кофе растворимый␟кг␟␟",
         "base_key": "кофе растворимый␟кг",
         "name": "Кофе растворимый",
@@ -441,9 +615,15 @@
         "package_weight_kg": 5.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Кофе растворимый"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "302f7e30-372e-5f01-960c-4d8edb0dd8c6",
         "key": "крупа гречневая ядрица␟кг␟␟",
         "base_key": "крупа гречневая ядрица␟кг",
         "name": "Крупа Гречневая ядрица",
@@ -456,9 +636,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Крупа Гречневая ядрица"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "b6e81255-16b0-58dc-abb5-21a59d220f3c",
         "key": "крупа овсяная цельная␟кг␟␟",
         "base_key": "крупа овсяная цельная␟кг",
         "name": "Крупа Овсяная цельная",
@@ -471,9 +657,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Крупа Овсяная цельная"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "3e077914-43b8-5e63-b51d-846f2377428d",
         "key": "крупа ячневая␟кг␟␟",
         "base_key": "крупа ячневая␟кг",
         "name": "Крупа Ячневая",
@@ -486,9 +678,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Крупа Ячневая"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "386277ca-9eb0-5b61-a9a6-c9323f113736",
         "key": "крупа горох шлифованный␟кг␟␟",
         "base_key": "крупа горох шлифованный␟кг",
         "name": "Крупа горох шлифованный",
@@ -501,9 +699,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Крупа горох шлифованный"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "010b98be-461e-511f-958d-25f295b1eef1",
         "key": "крупа манная␟кг␟␟",
         "base_key": "крупа манная␟кг",
         "name": "Крупа манная",
@@ -516,9 +720,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Крупа манная"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "bb251517-830f-521c-ba25-c0dfad881c3c",
         "key": "крупа перловая␟кг␟␟",
         "base_key": "крупа перловая␟кг",
         "name": "Крупа перловая",
@@ -531,9 +741,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Крупа перловая"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "f17570cd-b359-5cf0-80b5-6ea8e43074ea",
         "key": "крупа пшеничная␟кг␟␟",
         "base_key": "крупа пшеничная␟кг",
         "name": "Крупа пшеничная",
@@ -546,9 +762,15 @@
         "package_weight_kg": 40.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Крупа пшеничная"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "b3b6f7ff-9a35-5f94-ac67-a207fbab02ab",
         "key": "крупа пшено␟кг␟␟",
         "base_key": "крупа пшено␟кг",
         "name": "Крупа пшено",
@@ -561,9 +783,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Крупа пшено"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "613c14e0-2af5-53e9-a5ab-82373af077e5",
         "key": "крупа рис круглозерный␟кг␟␟",
         "base_key": "крупа рис круглозерный␟кг",
         "name": "Крупа рис круглозерный",
@@ -576,9 +804,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Крупа рис круглозерный"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "51150d72-ab6e-5859-bcd6-47b193ec9a7f",
         "key": "крупа фасоль /филвоенторг/␟кг␟␟",
         "base_key": "крупа фасоль /филвоенторг/␟кг",
         "name": "Крупа фасоль /ФилВоенторг/",
@@ -591,9 +825,16 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Крупа фасоль /ВП/",
+          "Крупа фасоль /ФилВоенторг/"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "4766ab68-96ee-511f-9390-4e0fee34e8d2",
         "key": "кукуруза консервы␟кг␟␟",
         "base_key": "кукуруза консервы␟кг",
         "name": "Кукуруза консервы",
@@ -606,9 +847,15 @@
         "package_weight_kg": 5.4,
         "volume_factor": 1.0,
         "full_pallet_packages": 192,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Кукуруза консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "538a7625-4446-5e30-9385-5dc241cbbc68",
         "key": "курага␟кг␟␟",
         "base_key": "курага␟кг",
         "name": "Курага",
@@ -621,9 +868,15 @@
         "package_weight_kg": 10.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Курага"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "07e17a85-a7a5-591d-b891-bb4a1c3cfe9f",
         "key": "лавровый лист␟кг␟␟",
         "base_key": "лавровый лист␟кг",
         "name": "Лавровый лист",
@@ -636,9 +889,15 @@
         "package_weight_kg": 1.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Лавровый лист"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "33f74d29-141e-5615-a408-f9006999cf73",
         "key": "лечо консервы␟кг␟␟",
         "base_key": "лечо консервы␟кг",
         "name": "Лечо консервы",
@@ -651,9 +910,15 @@
         "package_weight_kg": 9.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 96,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Лечо консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "f231f785-6645-52b6-895d-df24b712af8c",
         "key": "макароны␟кг␟␟",
         "base_key": "макароны␟кг",
         "name": "Макароны",
@@ -666,9 +931,15 @@
         "package_weight_kg": 25.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 30,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Макароны"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "38f56e6c-24a9-57fb-87fd-0a86e85de985",
         "key": "макароны вермишель␟кг␟␟",
         "base_key": "макароны вермишель␟кг",
         "name": "Макароны Вермишель",
@@ -681,9 +952,15 @@
         "package_weight_kg": 25.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 30,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Макароны Вермишель"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "ed04108b-b7c5-5b3f-a195-fe4c2ea3214a",
         "key": "маслины б/к консервы␟кг␟␟",
         "base_key": "маслины б/к консервы␟кг",
         "name": "Маслины б/к консервы",
@@ -696,9 +973,15 @@
         "package_weight_kg": 3.36,
         "volume_factor": 1.0,
         "full_pallet_packages": 96,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Маслины б/к консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "cdab5422-c86f-5366-942b-9ce31d6c871d",
         "key": "масло подсолнечное рафинированное /филвоенторг/␟кг␟␟",
         "base_key": "масло подсолнечное рафинированное /филвоенторг/␟кг",
         "name": "Масло подсолнечное рафинированное /ФилВоенторг/",
@@ -711,9 +994,16 @@
         "package_weight_kg": 11.04,
         "volume_factor": 1.0,
         "full_pallet_packages": 52,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Масло подсолнечное рафинированное /ВП/",
+          "Масло подсолнечное рафинированное /ФилВоенторг/"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "9468945f-73cb-5891-b85d-5c0424c3dd4f",
         "key": "минтай тушка потрошеный б/г с/м␟кг␟␟",
         "base_key": "минтай тушка потрошеный б/г с/м␟кг",
         "name": "Минтай тушка потрошеный б/г с/м",
@@ -726,9 +1016,15 @@
         "package_weight_kg": 22.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Минтай тушка потрошеный б/г с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "4d4fbaa3-e30d-57e3-8b12-082a82d9ed8e",
         "key": "молоко 3,2%␟л␟␟",
         "base_key": "молоко 3,2%␟л",
         "name": "Молоко 3,2%",
@@ -741,9 +1037,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Молоко 3,2%"
+        ],
         "overlay_allowed": true
       },
       {
+        "shared_id": "b8e604a8-1030-5e89-a690-1f9c17da2b10",
         "key": "молоко 3,2% /филвоенторг/ 0,200л␟л␟␟",
         "base_key": "молоко 3,2% /филвоенторг/ 0,200л␟л",
         "name": "Молоко 3,2% /ФилВоенторг/ 0,200л",
@@ -756,9 +1058,16 @@
         "package_weight_kg": 5.4,
         "volume_factor": 1.0,
         "full_pallet_packages": 185,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Молоко 3,2% /ВП/ 0,200л",
+          "Молоко 3,2% /ФилВоенторг/ 0,200л"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "3b8a56e1-2074-5b84-8453-4488856640fc",
         "key": "молоко сгущенное с сахаром 8,5%␟кг␟␟",
         "base_key": "молоко сгущенное с сахаром 8,5%␟кг",
         "name": "Молоко сгущенное с сахаром 8,5%",
@@ -771,9 +1080,15 @@
         "package_weight_kg": 11.4,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Молоко сгущенное с сахаром 8,5%"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "174bcf18-fcec-501f-86a9-e79bb77cee57",
         "key": "мука пшеничная 1 сорт␟кг␟␟",
         "base_key": "мука пшеничная 1 сорт␟кг",
         "name": "Мука пшеничная 1 сорт",
@@ -786,9 +1101,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Мука пшеничная 1 сорт"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "4cddb70e-0228-5e44-8716-4691df549df6",
         "key": "мука пшеничная в/с␟кг␟␟",
         "base_key": "мука пшеничная в/с␟кг",
         "name": "Мука пшеничная в/с",
@@ -801,9 +1122,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Мука пшеничная в/с"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "3c9965e4-791a-5717-ba8e-cd20626a9ec6",
         "key": "мясо кур в собственном соку консервы␟кг␟␟",
         "base_key": "мясо кур в собственном соку консервы␟кг",
         "name": "Мясо кур в собственном соку консервы",
@@ -816,9 +1143,15 @@
         "package_weight_kg": 7.8,
         "volume_factor": 1.0,
         "full_pallet_packages": 78,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Мясо кур в собственном соку консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "e2ab1f46-b5a8-5b87-bd7f-f819d74bd4a6",
         "key": "навага тушка потрошеная б/г с/м␟кг␟␟",
         "base_key": "навага тушка потрошеная б/г с/м␟кг",
         "name": "Навага тушка потрошеная б/г с/м",
@@ -831,9 +1164,15 @@
         "package_weight_kg": 24.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Навага тушка потрошеная б/г с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "5c3f8352-9ad4-553b-a094-9be6507d4069",
         "key": "огурцы маринованные консервы␟кг␟␟",
         "base_key": "огурцы маринованные консервы␟кг",
         "name": "Огурцы маринованные консервы",
@@ -846,9 +1185,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Огурцы маринованные консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "42763822-febf-5a66-90ae-0383c9381b03",
         "key": "огурцы соленые консервы␟кг␟␟",
         "base_key": "огурцы соленые консервы␟кг",
         "name": "Огурцы соленые консервы",
@@ -861,9 +1206,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Огурцы соленые консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "1815f2d4-0f17-52e7-8456-54522d44118f",
         "key": "паста томатная␟кг␟␟",
         "base_key": "паста томатная␟кг",
         "name": "Паста томатная",
@@ -876,9 +1227,15 @@
         "package_weight_kg": 6.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 128,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Паста томатная"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "dd1ea181-3789-52f1-91e1-9c6e1cc63f44",
         "key": "паштет печеночный сливочный консервы␟кг␟␟",
         "base_key": "паштет печеночный сливочный консервы␟кг",
         "name": "Паштет печеночный сливочный консервы",
@@ -891,9 +1248,15 @@
         "package_weight_kg": 15.21,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Паштет печеночный сливочный консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "47b70e1f-f6c5-5b70-b3b9-278ffec04c8b",
         "key": "пельмени с/м␟кг␟␟",
         "base_key": "пельмени с/м␟кг",
         "name": "Пельмени с/м",
@@ -906,9 +1269,15 @@
         "package_weight_kg": 6.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Пельмени с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "3b8f42bc-d2f9-5fc4-aa00-5ac2aaf5075c",
         "key": "перец черный молотый␟кг␟␟",
         "base_key": "перец черный молотый␟кг",
         "name": "Перец черный молотый",
@@ -921,9 +1290,15 @@
         "package_weight_kg": 1.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Перец черный молотый"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "45708f49-b982-5f11-9be8-c87389e71028",
         "key": "печенье /филвоенторг/ весовое␟кг␟␟",
         "base_key": "печенье /филвоенторг/ весовое␟кг",
         "name": "Печенье /ФилВоенторг/ весовое",
@@ -936,9 +1311,16 @@
         "package_weight_kg": 8.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 72,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Печенье /ВП/ весовое",
+          "Печенье /ФилВоенторг/ весовое"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "299516ec-af42-5a5d-a83d-550de24378a8",
         "key": "пикша тушка потрошеная б/г с/м␟кг␟␟",
         "base_key": "пикша тушка потрошеная б/г с/м␟кг",
         "name": "Пикша тушка потрошеная б/г с/м",
@@ -951,9 +1333,15 @@
         "package_weight_kg": 20.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Пикша тушка потрошеная б/г с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "46c138d9-93d8-55a6-800c-068625045403",
         "key": "повидло фруктово-ягодное /филвоенторг/␟кг␟␟",
         "base_key": "повидло фруктово-ягодное /филвоенторг/␟кг",
         "name": "Повидло фруктово-ягодное /ФилВоенторг/",
@@ -966,9 +1354,16 @@
         "package_weight_kg": 6.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 128,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Повидло фруктово-ягодное /ВП/",
+          "Повидло фруктово-ягодное /ФилВоенторг/"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "9529fbe9-c29a-519e-bb48-00474ede7638",
         "key": "приправа универсальная овощная␟кг␟␟",
         "base_key": "приправа универсальная овощная␟кг",
         "name": "Приправа универсальная овощная",
@@ -981,9 +1376,15 @@
         "package_weight_kg": 20.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Приправа универсальная овощная"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "b5f63e3c-7084-54c2-a710-fc972418d734",
         "key": "пряник /филвоенторг/ /весовой␟кг␟␟",
         "base_key": "пряник /филвоенторг/ /весовой␟кг",
         "name": "Пряник /ФилВоенторг/ /весовой",
@@ -996,9 +1397,16 @@
         "package_weight_kg": 7.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 72,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Пряник /ВП/ /весовой",
+          "Пряник /ФилВоенторг/ /весовой"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "2cec6676-49ca-5119-afa7-de3773bb46a6",
         "key": "сайда б/г с/м␟кг␟␟",
         "base_key": "сайда б/г с/м␟кг",
         "name": "Сайда б/г с/м",
@@ -1011,9 +1419,15 @@
         "package_weight_kg": 22.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сайда б/г с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "89b47060-7ac9-5e70-b1cd-3324a5b3cec0",
         "key": "сало - шпик␟кг␟␟",
         "base_key": "сало - шпик␟кг",
         "name": "Сало - Шпик",
@@ -1026,9 +1440,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сало - Шпик"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "17a8a4eb-5ca9-5f6f-86bd-d0d4ca5ae60a",
         "key": "сардельки␟кг␟␟",
         "base_key": "сардельки␟кг",
         "name": "Сардельки",
@@ -1041,9 +1461,15 @@
         "package_weight_kg": 10.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сардельки"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "e67025d3-21e2-59a0-af89-2a97a89ca73f",
         "key": "сардина в масле консервы␟кг␟␟",
         "base_key": "сардина в масле консервы␟кг",
         "name": "Сардина в масле консервы",
@@ -1056,9 +1482,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 54,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сардина в масле консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "2f4dd379-039c-526d-ac31-6914651f1560",
         "key": "сахар песок␟кг␟␟",
         "base_key": "сахар песок␟кг",
         "name": "Сахар песок",
@@ -1071,9 +1503,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сахар песок"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "af5c6a4b-133c-53a3-b2a8-a2340af87dc4",
         "key": "свинина блочная б/к с/м␟кг␟␟",
         "base_key": "свинина блочная б/к с/м␟кг",
         "name": "Свинина блочная б/к с/м",
@@ -1086,9 +1524,15 @@
         "package_weight_kg": 20.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Свинина блочная б/к с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "f338581c-2a17-5106-b6ee-94a2fdc2df48",
         "key": "свинина на кости с/м␟кг␟␟",
         "base_key": "свинина на кости с/м␟кг",
         "name": "Свинина на кости с/м",
@@ -1101,9 +1545,15 @@
         "package_weight_kg": 1.0,
         "volume_factor": 1.0,
         "full_pallet_packages": null,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Свинина на кости с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "c7396a42-269b-5094-b532-b29636696d20",
         "key": "свинина тушеная 1сорт консервы␟кг␟␟",
         "base_key": "свинина тушеная 1сорт консервы␟кг",
         "name": "Свинина тушеная 1сорт консервы",
@@ -1116,9 +1566,15 @@
         "package_weight_kg": 12.6,
         "volume_factor": 1.0,
         "full_pallet_packages": 64,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Свинина тушеная 1сорт консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "6dd37bc2-f3d5-5631-becc-2c2833c7d8b5",
         "key": "сельдь в масле консервы␟кг␟␟",
         "base_key": "сельдь в масле консервы␟кг",
         "name": "Сельдь в масле консервы",
@@ -1131,9 +1587,15 @@
         "package_weight_kg": 11.52,
         "volume_factor": 1.0,
         "full_pallet_packages": 54,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сельдь в масле консервы"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "cc52cdaf-234f-5378-a13b-42e1107974b0",
         "key": "сельдь филе с/м␟кг␟␟",
         "base_key": "сельдь филе с/м␟кг",
         "name": "Сельдь филе с/м",
@@ -1146,9 +1608,15 @@
         "package_weight_kg": 20.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сельдь филе с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "ae76cbf4-dae7-572a-ba88-32519c526f02",
         "key": "сок фруктово-ягодный /филвоенторг/ 0,200л␟л␟␟",
         "base_key": "сок фруктово-ягодный /филвоенторг/ 0,200л␟л",
         "name": "Сок фруктово-ягодный /ФилВоенторг/ 0,200л",
@@ -1161,9 +1629,16 @@
         "package_weight_kg": 5.4,
         "volume_factor": 1.0,
         "full_pallet_packages": 185,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сок фруктово-ягодный /ВП/ 0,200л",
+          "Сок фруктово-ягодный /ФилВоенторг/ 0,200л"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "5a8c1ba3-5563-5582-a672-cf2e30064cb7",
         "key": "сок фруктово-ягодный /филвоенторг/ 1,000л␟л␟␟",
         "base_key": "сок фруктово-ягодный /филвоенторг/ 1,000л␟л",
         "name": "Сок фруктово-ягодный /ФилВоенторг/ 1,000л",
@@ -1176,9 +1651,16 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сок фруктово-ягодный /ВП/ 1,000л",
+          "Сок фруктово-ягодный /ФилВоенторг/ 1,000л"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "011716ff-7ac1-599b-8e78-c82abf14fa6a",
         "key": "соль йодированная мелкая␟кг␟␟",
         "base_key": "соль йодированная мелкая␟кг",
         "name": "Соль йодированная мелкая",
@@ -1191,9 +1673,15 @@
         "package_weight_kg": 20.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 50,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Соль йодированная мелкая"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "217ebde2-0c4a-536a-b797-45f295cb0848",
         "key": "соль пищевая␟кг␟␟",
         "base_key": "соль пищевая␟кг",
         "name": "Соль пищевая",
@@ -1206,9 +1694,15 @@
         "package_weight_kg": 50.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Соль пищевая"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "6e81550f-7c05-5fba-a2d0-213130ce8859",
         "key": "сосиски␟кг␟␟",
         "base_key": "сосиски␟кг",
         "name": "Сосиски",
@@ -1221,9 +1715,15 @@
         "package_weight_kg": 10.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сосиски"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "342e96d2-7af0-5680-b123-b6ba93b5f7b0",
         "key": "сыр полутвердый␟кг␟␟",
         "base_key": "сыр полутвердый␟кг",
         "name": "Сыр полутвердый",
@@ -1236,9 +1736,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Сыр полутвердый"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "1e339092-ba40-5fac-8ebd-de4a996a9dd3",
         "key": "томаты ассорти соленые консервы␟кг␟␟",
         "base_key": "томаты ассорти соленые консервы␟кг",
         "name": "Томаты Ассорти соленые консервы",
@@ -1251,9 +1757,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Томаты Ассорти соленые консервы"
+        ],
         "overlay_allowed": true
       },
       {
+        "shared_id": "992449b9-7663-5c46-a787-489116b07d6a",
         "key": "томаты маринованные консервы␟кг␟␟",
         "base_key": "томаты маринованные консервы␟кг",
         "name": "Томаты маринованные консервы",
@@ -1266,9 +1778,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Томаты маринованные консервы"
+        ],
         "overlay_allowed": true
       },
       {
+        "shared_id": "d4590db5-5982-5df5-b390-38f3d79f1735",
         "key": "треска тушка б/г с/м␟кг␟␟",
         "base_key": "треска тушка б/г с/м␟кг",
         "name": "Треска тушка б/г с/м",
@@ -1281,9 +1799,15 @@
         "package_weight_kg": 22.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Треска тушка б/г с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "b626c7f2-268e-5bfd-9c16-f470506b6502",
         "key": "уксус 9,0%␟л␟␟",
         "base_key": "уксус 9,0%␟л",
         "name": "Уксус 9,0%",
@@ -1296,9 +1820,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 70,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Уксус 9,0%"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "6af16a2e-930e-5cc6-a135-93a16741c264",
         "key": "фасоль /филвоенторг/ консервы␟кг␟␟",
         "base_key": "фасоль /филвоенторг/ консервы␟кг",
         "name": "Фасоль /ФилВоенторг/ консервы",
@@ -1311,9 +1841,16 @@
         "package_weight_kg": 5.4,
         "volume_factor": 1.0,
         "full_pallet_packages": 192,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Фасоль /ВП/ консервы",
+          "Фасоль /ФилВоенторг/ консервы"
+        ],
         "overlay_allowed": true
       },
       {
+        "shared_id": "27d61071-515d-5a86-a11a-02d111a22f5a",
         "key": "хлопья овсяные␟кг␟␟",
         "base_key": "хлопья овсяные␟кг",
         "name": "Хлопья Овсяные",
@@ -1326,9 +1863,15 @@
         "package_weight_kg": 30.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Хлопья Овсяные"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "85d489b1-a462-5a48-b873-ef4e05d95b7a",
         "key": "цыпленок бедро с/м␟кг␟␟",
         "base_key": "цыпленок бедро с/м␟кг",
         "name": "Цыпленок бедро с/м",
@@ -1341,9 +1884,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Цыпленок бедро с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "4e0caa7f-11db-5218-8344-976280a341b6",
         "key": "цыпленок тушка бройлер с/м␟кг␟␟",
         "base_key": "цыпленок тушка бройлер с/м␟кг",
         "name": "Цыпленок тушка бройлер с/м",
@@ -1356,9 +1905,15 @@
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 40,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Цыпленок тушка бройлер с/м"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "0b685ba9-be73-590a-90d8-57395ecfcd11",
         "key": "чай черный листовой /весовой␟кг␟␟",
         "base_key": "чай черный листовой /весовой␟кг",
         "name": "Чай черный листовой /весовой",
@@ -1371,9 +1926,15 @@
         "package_weight_kg": 7.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 30,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Чай черный листовой /весовой"
+        ],
         "overlay_allowed": true
       },
       {
+        "shared_id": "1eed202e-4183-583a-b268-23c07d1ca76d",
         "key": "чернослив б/к␟кг␟␟",
         "base_key": "чернослив б/к␟кг",
         "name": "Чернослив б/к",
@@ -1386,9 +1947,15 @@
         "package_weight_kg": 5.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 30,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Чернослив б/к"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "070cbeec-b5ca-57e3-829f-684ff1360617",
         "key": "шоколад горький 56% /филвоенторг/ /весовой␟кг␟␟",
         "base_key": "шоколад горький 56% /филвоенторг/ /весовой␟кг",
         "name": "Шоколад горький 56% /ФилВоенторг/ /весовой",
@@ -1401,9 +1968,16 @@
         "package_weight_kg": 7.2,
         "volume_factor": 1.0,
         "full_pallet_packages": 96,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Шоколад горький 56% /ВП/ /весовой",
+          "Шоколад горький 56% /ФилВоенторг/ /весовой"
+        ],
         "overlay_allowed": false
       },
       {
+        "shared_id": "ddb58d4b-fcb1-5b39-bf61-19f7cf520aa1",
         "key": "экстракт концентрат плодово-ягодный жидкий␟кг␟␟",
         "base_key": "экстракт концентрат плодово-ягодный жидкий␟кг",
         "name": "Экстракт концентрат плодово-ягодный жидкий",
@@ -1416,9 +1990,15 @@
         "package_weight_kg": 14.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 84,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Экстракт концентрат плодово-ягодный жидкий"
+        ],
         "overlay_allowed": true
       },
       {
+        "shared_id": "e8b9afd2-8e38-52f9-8274-b4b9f233c94a",
         "key": "яйцо куриное с1␟шт (яйцо)␟␟",
         "base_key": "яйцо куриное с1␟шт (яйцо)",
         "name": "Яйцо куриное С1",
@@ -1431,9 +2011,15 @@
         "package_weight_kg": 360.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Яйцо куриное С1"
+        ],
         "overlay_allowed": false
       }
     ],
+    "deleted_product_shared_ids": [],
     "forbidden_category_pairs": [
       [
         "Банки",
@@ -1472,6 +2058,7 @@
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
         "profile": "bank",
+        "weight_exception_product_shared_ids": [],
         "weight_exception_product_keys": []
       },
       {
@@ -1479,6 +2066,7 @@
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
         "profile": "bean",
+        "weight_exception_product_shared_ids": [],
         "weight_exception_product_keys": []
       },
       {
@@ -1486,6 +2074,7 @@
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
         "profile": "big_box",
+        "weight_exception_product_shared_ids": [],
         "weight_exception_product_keys": []
       },
       {
@@ -1493,6 +2082,7 @@
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
         "profile": "frozen_chilled",
+        "weight_exception_product_shared_ids": [],
         "weight_exception_product_keys": []
       },
       {
@@ -1500,6 +2090,7 @@
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
         "profile": "caramel",
+        "weight_exception_product_shared_ids": [],
         "weight_exception_product_keys": []
       },
       {
@@ -1507,6 +2098,7 @@
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
         "profile": "small",
+        "weight_exception_product_shared_ids": [],
         "weight_exception_product_keys": []
       },
       {
@@ -1514,6 +2106,10 @@
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
         "profile": "bag",
+        "weight_exception_product_shared_ids": [
+          "f231f785-6645-52b6-895d-df24b712af8c",
+          "38f56e6c-24a9-57fb-87fd-0a86e85de985"
+        ],
         "weight_exception_product_keys": [
           "макароны␟кг␟␟",
           "макароны вермишель␟кг␟␟"
@@ -1524,6 +2120,7 @@
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
         "profile": "non_bag",
+        "weight_exception_product_shared_ids": [],
         "weight_exception_product_keys": []
       },
       {
@@ -1531,6 +2128,7 @@
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
         "profile": "normal",
+        "weight_exception_product_shared_ids": [],
         "weight_exception_product_keys": []
       },
       {
@@ -1538,6 +2136,7 @@
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
         "profile": "non_bag",
+        "weight_exception_product_shared_ids": [],
         "weight_exception_product_keys": []
       }
     ]
