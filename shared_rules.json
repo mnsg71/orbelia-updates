@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 19,
-  "updated_at": "2026-08-18T15:19:25+00:00",
+  "revision": 20,
+  "updated_at": "2026-08-18T15:20:25+00:00",
   "updated_by": {
     "device_id": "76eb2363844c492882ead82c4e8744ce",
     "name": "DESKTOP-FLPJQMO"
@@ -83,7 +83,7 @@
         "category": "Большие коробки",
         "weight_per_unit_kg": 1.0,
         "package_weight_kg": 4.0,
-        "volume_factor": 0.5,
+        "volume_factor": 1.0,
         "full_pallet_packages": 80,
         "active": true,
         "review_required": false,
