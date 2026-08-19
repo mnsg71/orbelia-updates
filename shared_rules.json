@@ -1,10 +1,10 @@
 {
   "format_version": 3,
-  "revision": 24,
-  "updated_at": "2026-08-18T15:31:59+00:00",
+  "revision": 25,
+  "updated_at": "2026-08-19T04:42:32+00:00",
   "updated_by": {
-    "device_id": "76eb2363844c492882ead82c4e8744ce",
-    "name": "DESKTOP-FLPJQMO"
+    "device_id": "a29886e49e2a4692afc6e2d6c7c965ae",
+    "name": "mongaal2"
   },
   "rules": {
     "products": [
@@ -82,9 +82,9 @@
         "package": "",
         "category": "Большие коробки",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 4.0,
+        "package_weight_kg": 5.0,
         "volume_factor": 1.0,
-        "full_pallet_packages": 80,
+        "full_pallet_packages": 64,
         "active": true,
         "review_required": false,
         "aliases": [
