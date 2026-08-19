@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 25,
-  "updated_at": "2026-08-19T04:42:32+00:00",
+  "revision": 26,
+  "updated_at": "2026-08-19T04:43:06+00:00",
   "updated_by": {
     "device_id": "a29886e49e2a4692afc6e2d6c7c965ae",
     "name": "mongaal2"
@@ -1055,9 +1055,9 @@
         "package": "",
         "category": "Молоко и соки",
         "weight_per_unit_kg": 1.03,
-        "package_weight_kg": 5.4,
-        "volume_factor": 0.5,
-        "full_pallet_packages": 185,
+        "package_weight_kg": 3.6,
+        "volume_factor": 0.3,
+        "full_pallet_packages": 184,
         "active": true,
         "review_required": false,
         "aliases": [
