@@ -1,10 +1,10 @@
 {
   "format_version": 3,
-  "revision": 26,
-  "updated_at": "2026-08-19T04:43:06+00:00",
+  "revision": 27,
+  "updated_at": "2026-08-19T16:18:33+00:00",
   "updated_by": {
-    "device_id": "a29886e49e2a4692afc6e2d6c7c965ae",
-    "name": "mongaal2"
+    "device_id": "76eb2363844c492882ead82c4e8744ce",
+    "name": "DESKTOP-FLPJQMO"
   },
   "rules": {
     "products": [
@@ -1584,9 +1584,9 @@
         "package": "",
         "category": "Обычные товары",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 11.52,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 54,
+        "package_weight_kg": 3.0,
+        "volume_factor": 0.2,
+        "full_pallet_packages": 280,
         "active": true,
         "review_required": false,
         "aliases": [
