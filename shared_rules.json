@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 28,
-  "updated_at": "2026-08-24T00:43:25+00:00",
+  "revision": 29,
+  "updated_at": "2026-08-24T04:01:17+00:00",
   "updated_by": {
     "device_id": "6dc4993f40094181bd2f05207907807c",
     "name": "DESKTOP-N7H2RU7"
@@ -260,6 +260,27 @@
         "review_required": false,
         "aliases": [
           "Горбуша тушка б/г с/м"
+        ],
+        "overlay_allowed": false
+      },
+      {
+        "shared_id": "2bd56fc3-2e41-4c6b-8212-b788a2016c3e",
+        "key": "горбуша филе б/ш с/м␟кг␟␟",
+        "base_key": "горбуша филе б/ш с/м␟кг",
+        "name": "Горбуша филе б/ш с/м",
+        "unit": "кг",
+        "template_name": "Горбуша филе б/ш с/м",
+        "manufacturer": "",
+        "package": "",
+        "category": "Заморозка и охлаждение",
+        "weight_per_unit_kg": 1.0,
+        "package_weight_kg": 1.0,
+        "volume_factor": 1.0,
+        "full_pallet_packages": null,
+        "active": true,
+        "review_required": false,
+        "aliases": [
+          "Горбуша филе б/ш с/м"
         ],
         "overlay_allowed": false
       },
@@ -1024,6 +1045,25 @@
         "overlay_allowed": false
       },
       {
+        "shared_id": "6effd9d1-2258-467f-b2ab-43d6b70b67ea",
+        "key": "минтай филе б/ш с/м␟кг␟␟",
+        "base_key": "минтай филе б/ш с/м␟кг",
+        "name": "Минтай филе б/ш с/м",
+        "unit": "кг",
+        "template_name": "Минтай филе б/ш с/м",
+        "manufacturer": "",
+        "package": "",
+        "category": "",
+        "weight_per_unit_kg": 1.0,
+        "package_weight_kg": null,
+        "volume_factor": 1.0,
+        "full_pallet_packages": null,
+        "active": true,
+        "review_required": true,
+        "aliases": [],
+        "overlay_allowed": false
+      },
+      {
         "shared_id": "4d4fbaa3-e30d-57e3-8b12-082a82d9ed8e",
         "key": "молоко 3,2%␟л␟␟",
         "base_key": "молоко 3,2%␟л",
@@ -1169,6 +1209,25 @@
         "aliases": [
           "Навага тушка потрошеная б/г с/м"
         ],
+        "overlay_allowed": false
+      },
+      {
+        "shared_id": "dd107cc2-cd42-4b78-af00-0c5e96c4e5ac",
+        "key": "навага филе с/м␟кг␟␟",
+        "base_key": "навага филе с/м␟кг",
+        "name": "Навага филе с/м",
+        "unit": "кг",
+        "template_name": "Навага филе с/м",
+        "manufacturer": "",
+        "package": "",
+        "category": "",
+        "weight_per_unit_kg": 1.0,
+        "package_weight_kg": null,
+        "volume_factor": 1.0,
+        "full_pallet_packages": null,
+        "active": true,
+        "review_required": true,
+        "aliases": [],
         "overlay_allowed": false
       },
       {
@@ -1341,6 +1400,25 @@
         "overlay_allowed": false
       },
       {
+        "shared_id": "140ff3a4-edd7-4295-bb77-e01027334b49",
+        "key": "пикша филе н/ш␟кг␟␟",
+        "base_key": "пикша филе н/ш␟кг",
+        "name": "Пикша филе н/ш",
+        "unit": "кг",
+        "template_name": "Пикша филе н/ш",
+        "manufacturer": "",
+        "package": "",
+        "category": "",
+        "weight_per_unit_kg": 1.0,
+        "package_weight_kg": null,
+        "volume_factor": 1.0,
+        "full_pallet_packages": null,
+        "active": true,
+        "review_required": true,
+        "aliases": [],
+        "overlay_allowed": false
+      },
+      {
         "shared_id": "46c138d9-93d8-55a6-800c-068625045403",
         "key": "повидло фруктово-ягодное /филвоенторг/␟кг␟␟",
         "base_key": "повидло фруктово-ягодное /филвоенторг/␟кг",
@@ -1424,6 +1502,25 @@
         "aliases": [
           "Сайда б/г с/м"
         ],
+        "overlay_allowed": false
+      },
+      {
+        "shared_id": "d05f751d-ac22-4e8e-a770-c7d1a8690a42",
+        "key": "сайда филе н/ш␟кг␟␟",
+        "base_key": "сайда филе н/ш␟кг",
+        "name": "Сайда филе н/ш",
+        "unit": "кг",
+        "template_name": "Сайда филе н/ш",
+        "manufacturer": "",
+        "package": "",
+        "category": "",
+        "weight_per_unit_kg": 1.0,
+        "package_weight_kg": null,
+        "volume_factor": 1.0,
+        "full_pallet_packages": null,
+        "active": true,
+        "review_required": true,
+        "aliases": [],
         "overlay_allowed": false
       },
       {
@@ -1825,6 +1922,25 @@
         "aliases": [
           "Уксус 9,0%"
         ],
+        "overlay_allowed": false
+      },
+      {
+        "shared_id": "0adc59d5-60c5-4e30-93bb-a85b15e95c7c",
+        "key": "уксус 9,0% /вп/␟л␟␟",
+        "base_key": "уксус 9,0% /вп/␟л",
+        "name": "Уксус 9,0% /ВП/",
+        "unit": "л",
+        "template_name": "Уксус 9,0% /ВП/",
+        "manufacturer": "",
+        "package": "",
+        "category": "",
+        "weight_per_unit_kg": 1.01,
+        "package_weight_kg": null,
+        "volume_factor": 1.0,
+        "full_pallet_packages": null,
+        "active": true,
+        "review_required": true,
+        "aliases": [],
         "overlay_allowed": false
       },
       {
