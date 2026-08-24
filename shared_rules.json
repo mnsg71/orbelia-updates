@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 32,
-  "updated_at": "2026-08-24T04:02:07+00:00",
+  "revision": 33,
+  "updated_at": "2026-08-24T04:02:17+00:00",
   "updated_by": {
     "device_id": "6dc4993f40094181bd2f05207907807c",
     "name": "DESKTOP-N7H2RU7"
@@ -1519,14 +1519,16 @@
         "template_name": "Сайда филе н/ш",
         "manufacturer": "",
         "package": "",
-        "category": "",
+        "category": "Заморозка и охлаждение",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 1.0,
         "volume_factor": 1.0,
         "full_pallet_packages": null,
         "active": true,
-        "review_required": true,
-        "aliases": [],
+        "review_required": false,
+        "aliases": [
+          "Сайда филе н/ш"
+        ],
         "overlay_allowed": false
       },
       {
