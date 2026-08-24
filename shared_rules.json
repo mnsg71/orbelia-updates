@@ -1,10 +1,10 @@
 {
   "format_version": 3,
-  "revision": 27,
-  "updated_at": "2026-08-19T16:18:33+00:00",
+  "revision": 28,
+  "updated_at": "2026-08-24T00:43:25+00:00",
   "updated_by": {
-    "device_id": "76eb2363844c492882ead82c4e8744ce",
-    "name": "DESKTOP-FLPJQMO"
+    "device_id": "6dc4993f40094181bd2f05207907807c",
+    "name": "DESKTOP-N7H2RU7"
   },
   "rules": {
     "products": [
@@ -1057,7 +1057,7 @@
         "weight_per_unit_kg": 1.03,
         "package_weight_kg": 3.6,
         "volume_factor": 0.3,
-        "full_pallet_packages": 184,
+        "full_pallet_packages": 276,
         "active": true,
         "review_required": false,
         "aliases": [
