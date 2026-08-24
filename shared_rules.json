@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 29,
-  "updated_at": "2026-08-24T04:01:17+00:00",
+  "revision": 30,
+  "updated_at": "2026-08-24T04:01:29+00:00",
   "updated_by": {
     "device_id": "6dc4993f40094181bd2f05207907807c",
     "name": "DESKTOP-N7H2RU7"
@@ -1053,14 +1053,16 @@
         "template_name": "Минтай филе б/ш с/м",
         "manufacturer": "",
         "package": "",
-        "category": "",
+        "category": "Заморозка и охлаждение",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": null,
+        "package_weight_kg": 1.0,
         "volume_factor": 1.0,
         "full_pallet_packages": null,
         "active": true,
-        "review_required": true,
-        "aliases": [],
+        "review_required": false,
+        "aliases": [
+          "Минтай филе б/ш с/м"
+        ],
         "overlay_allowed": false
       },
       {
