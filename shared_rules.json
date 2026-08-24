@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 35,
-  "updated_at": "2026-08-24T08:27:41+00:00",
+  "revision": 36,
+  "updated_at": "2026-08-24T08:31:03+00:00",
   "updated_by": {
     "device_id": "6dc4993f40094181bd2f05207907807c",
     "name": "DESKTOP-N7H2RU7"
@@ -19,7 +19,7 @@
         "package": "",
         "category": "Маленькие товары",
         "weight_per_unit_kg": 0.001,
-        "package_weight_kg": 0.001,
+        "package_weight_kg": 3.5,
         "volume_factor": 0.0001,
         "full_pallet_packages": 50,
         "active": true,
