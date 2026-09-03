@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 38,
-  "updated_at": "2026-09-03T06:46:07+00:00",
+  "revision": 39,
+  "updated_at": "2026-09-03T06:57:30+00:00",
   "updated_by": {
     "device_id": "ae156d0b91c34810a5c101e1cd70d516",
     "name": "MA30HE"
@@ -82,9 +82,9 @@
         "package": "",
         "category": "Большие коробки",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 5.0,
-        "volume_factor": 1.0,
-        "full_pallet_packages": 64,
+        "package_weight_kg": 4.0,
+        "volume_factor": 0.8,
+        "full_pallet_packages": 96,
         "active": true,
         "review_required": false,
         "aliases": [
