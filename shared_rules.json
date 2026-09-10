@@ -1,10 +1,10 @@
 {
   "format_version": 3,
-  "revision": 39,
-  "updated_at": "2026-09-03T06:57:30+00:00",
+  "revision": 40,
+  "updated_at": "2026-09-10T01:33:20+00:00",
   "updated_by": {
-    "device_id": "ae156d0b91c34810a5c101e1cd70d516",
-    "name": "MA30HE"
+    "device_id": "a29886e49e2a4692afc6e2d6c7c965ae",
+    "name": "mongaal2"
   },
   "rules": {
     "products": [
@@ -2215,12 +2215,12 @@
         "max_packages_per_pallet": null,
         "profile": "bag",
         "weight_exception_product_shared_ids": [
-          "38f56e6c-24a9-57fb-87fd-0a86e85de985",
-          "f231f785-6645-52b6-895d-df24b712af8c"
+          "f231f785-6645-52b6-895d-df24b712af8c",
+          "38f56e6c-24a9-57fb-87fd-0a86e85de985"
         ],
         "weight_exception_product_keys": [
-          "макароны вермишель␟кг␟␟",
-          "макароны␟кг␟␟"
+          "макароны␟кг␟␟",
+          "макароны вермишель␟кг␟␟"
         ]
       },
       {
