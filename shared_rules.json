@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 51,
-  "updated_at": "2026-09-11T08:08:45+00:00",
+  "revision": 52,
+  "updated_at": "2026-09-11T08:17:48+00:00",
   "updated_by": {
     "device_id": "ae156d0b91c34810a5c101e1cd70d516",
     "name": "MA30HE"
@@ -1689,9 +1689,9 @@
         "package": "",
         "category": "Обычные товары",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 3.0,
+        "package_weight_kg": 12.0,
         "volume_factor": 0.2,
-        "full_pallet_packages": 280,
+        "full_pallet_packages": 63,
         "active": true,
         "review_required": false,
         "aliases": [
