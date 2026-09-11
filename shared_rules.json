@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 50,
-  "updated_at": "2026-09-11T07:35:03+00:00",
+  "revision": 51,
+  "updated_at": "2026-09-11T08:08:45+00:00",
   "updated_by": {
     "device_id": "ae156d0b91c34810a5c101e1cd70d516",
     "name": "MA30HE"
@@ -947,9 +947,9 @@
         "template_name": "Макароны",
         "manufacturer": "",
         "package": "",
-        "category": "Мешки",
-        "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 30.0,
+        "category": "Молоко и соки",
+        "weight_per_unit_kg": 1e-06,
+        "package_weight_kg": 25.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 30,
         "active": true,
