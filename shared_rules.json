@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 42,
-  "updated_at": "2026-09-11T06:31:00+00:00",
+  "revision": 43,
+  "updated_at": "2026-09-11T06:31:23+00:00",
   "updated_by": {
     "device_id": "ae156d0b91c34810a5c101e1cd70d516",
     "name": "MA30HE"
@@ -1944,7 +1944,7 @@
         "package": "",
         "category": "Бобы",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 5.4,
+        "package_weight_kg": 16.0,
         "volume_factor": 0.2,
         "full_pallet_packages": 192,
         "active": true,
