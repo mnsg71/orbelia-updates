@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 57,
-  "updated_at": "2026-09-14T04:48:10+00:00",
+  "revision": 58,
+  "updated_at": "2026-09-14T04:48:46+00:00",
   "updated_by": {
     "device_id": "ae156d0b91c34810a5c101e1cd70d516",
     "name": "MA30HE"
@@ -1796,7 +1796,7 @@
         "package": "",
         "category": "Мешки",
         "weight_per_unit_kg": 1.0,
-        "package_weight_kg": 50.0,
+        "package_weight_kg": 25.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 20,
         "active": true,
