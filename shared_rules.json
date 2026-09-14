@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 55,
-  "updated_at": "2026-09-11T08:44:05+00:00",
+  "revision": 56,
+  "updated_at": "2026-09-14T04:47:28+00:00",
   "updated_by": {
     "device_id": "ae156d0b91c34810a5c101e1cd70d516",
     "name": "MA30HE"
@@ -1096,7 +1096,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Молоко и соки",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 1.03,
         "package_weight_kg": 3.6,
         "volume_factor": 0.3,
         "full_pallet_packages": 276,
@@ -1730,7 +1730,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Молоко и соки",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 1.05,
         "package_weight_kg": 5.4,
         "volume_factor": 0.5,
         "full_pallet_packages": 185,
@@ -1752,7 +1752,7 @@
         "manufacturer": "",
         "package": "",
         "category": "Молоко и соки",
-        "weight_per_unit_kg": 1.0,
+        "weight_per_unit_kg": 1.05,
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 60,
