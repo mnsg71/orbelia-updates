@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 63,
-  "updated_at": "2026-09-17T01:56:55+00:00",
+  "revision": 64,
+  "updated_at": "2026-09-17T01:59:55+00:00",
   "updated_by": {
     "device_id": "ae156d0b91c34810a5c101e1cd70d516",
     "name": "MA30HE"
@@ -1074,8 +1074,8 @@
         "template_name": "Молоко 3,2%",
         "manufacturer": "",
         "package": "",
-        "category": "Обычные товары",
-        "weight_per_unit_kg": 1.03,
+        "category": "Растительное масло",
+        "weight_per_unit_kg": 1.0,
         "package_weight_kg": 12.0,
         "volume_factor": 1.0,
         "full_pallet_packages": 78,
