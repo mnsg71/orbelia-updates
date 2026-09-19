@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 71,
-  "updated_at": "2026-09-19T05:08:04+00:00",
+  "revision": 72,
+  "updated_at": "2026-09-19T05:10:23+00:00",
   "updated_by": {
     "device_id": "a29886e49e2a4692afc6e2d6c7c965ae",
     "name": "mongaal2"
@@ -2369,7 +2369,7 @@
       },
       {
         "name": "Охлажденка",
-        "max_net_weight_kg": 1201.0,
+        "max_net_weight_kg": 7200.0,
         "max_packages_per_pallet": null,
         "profile": "normal",
         "weight_exception_product_shared_ids": [],
