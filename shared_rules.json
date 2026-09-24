@@ -1,10 +1,10 @@
 {
   "format_version": 3,
-  "revision": 72,
-  "updated_at": "2026-09-19T05:10:23+00:00",
+  "revision": 73,
+  "updated_at": "2026-09-24T09:33:39+00:00",
   "updated_by": {
-    "device_id": "a29886e49e2a4692afc6e2d6c7c965ae",
-    "name": "mongaal2"
+    "device_id": "ae156d0b91c34810a5c101e1cd70d516",
+    "name": "MA30HE"
   },
   "rules": {
     "products": [
@@ -2204,19 +2204,19 @@
       },
       {
         "shared_id": "e8b9afd2-8e38-52f9-8274-b4b9f233c94a",
-        "key": "яйцо куриное с1␟шт (яйцо)␟␟",
-        "base_key": "яйцо куриное с1␟шт (яйцо)",
+        "key": "яйцо куриное с1␟кг␟␟",
+        "base_key": "яйцо куриное с1␟кг",
         "name": "Яйцо куриное С1",
-        "unit": "шт (яйцо)",
+        "unit": "шт",
         "template_name": "Яйцо куриное С1",
         "manufacturer": "",
         "package": "",
         "category": "Охлажденка",
         "packages_per_row": 0,
         "round_to_half_row": false,
-        "package_weight_kg": 360.0,
+        "package_weight_kg": 21.6,
         "volume_factor": 1.0,
-        "full_pallet_packages": 20,
+        "full_pallet_packages": 16,
         "active": true,
         "review_required": false,
         "aliases": [
@@ -2309,7 +2309,7 @@
         "name": "Заморозка",
         "max_net_weight_kg": 1001.0,
         "max_packages_per_pallet": null,
-        "profile": "normal",
+        "profile": "frozen",
         "weight_exception_product_shared_ids": [],
         "weight_exception_product_keys": []
       },
@@ -2343,12 +2343,12 @@
         "max_packages_per_pallet": null,
         "profile": "bag",
         "weight_exception_product_shared_ids": [
-          "f231f785-6645-52b6-895d-df24b712af8c",
-          "38f56e6c-24a9-57fb-87fd-0a86e85de985"
+          "38f56e6c-24a9-57fb-87fd-0a86e85de985",
+          "f231f785-6645-52b6-895d-df24b712af8c"
         ],
         "weight_exception_product_keys": [
-          "макароны␟кг␟␟",
-          "макароны вермишель␟кг␟␟"
+          "макароны вермишель␟кг␟␟",
+          "макароны␟кг␟␟"
         ]
       },
       {
