@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 79,
-  "updated_at": "2026-09-28T07:42:16+00:00",
+  "revision": 80,
+  "updated_at": "2026-09-28T07:47:15+00:00",
   "updated_by": {
     "device_id": "ae156d0b91c34810a5c101e1cd70d516",
     "name": "MA30HE"
@@ -1814,7 +1814,7 @@
         "packages_per_row": 0,
         "round_to_half_row": false,
         "package_weight_kg": 5.4,
-        "volume_factor": 0.5,
+        "volume_factor": 0.1,
         "full_pallet_packages": 185,
         "active": true,
         "review_required": false,
