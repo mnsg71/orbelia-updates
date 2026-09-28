@@ -1,7 +1,7 @@
 {
   "format_version": 3,
-  "revision": 78,
-  "updated_at": "2026-09-28T07:39:55+00:00",
+  "revision": 79,
+  "updated_at": "2026-09-28T07:42:16+00:00",
   "updated_by": {
     "device_id": "ae156d0b91c34810a5c101e1cd70d516",
     "name": "MA30HE"
@@ -1035,7 +1035,7 @@
         "template_name": "Маслины б/к консервы",
         "manufacturer": "",
         "package": "",
-        "category": "Маленькие товары",
+        "category": "Бобы",
         "packages_per_row": 0,
         "round_to_half_row": false,
         "package_weight_kg": 3.36,
